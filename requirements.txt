@@ -1,0 +1,17 @@
+# Code quality
+flake8  # https://github.com/PyCQA/flake8
+flake8-isort  # https://github.com/gforcada/flake8-isort
+flake8-quotes  # https://github.com/zheller/flake8-quotes
+flake8-docstrings  # https://github.com/PyCQA/flake8-docstrings
+pre-commit  # https://github.com/pre-commit/pre-commit
+
+# Data science
+numpy  # https://github.com/numpy/numpy
+scipy  # https://github.com/scipy/scipy
+pandas  # https://github.com/pandas-dev/pandas
+matplotlib  # https://github.com/matplotlib/matplotlib
+scikit-learn  # https://github.com/scikit-learn/scikit-learn
+jupyterlab  # https://github.com/cookiecutter/cookiecutter
+
+# Environment
+python-dotenv  # https://pypi.org/project/python-dotenv
